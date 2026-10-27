@@ -1,0 +1,12 @@
+Python cache files
+pycache/
+*.py[cod]
+Virtual environment
+venv/
+.venv/
+Test cache
+.pytest_cache/
+Local SQLite database
+urls.db
+Environment variables and secrets
+.env
